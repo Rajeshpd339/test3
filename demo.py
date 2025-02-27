@@ -1,0 +1,2 @@
+a="skills"
+print(a)
