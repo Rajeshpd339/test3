@@ -1,2 +1,0 @@
-a="skills"
-print(a)
